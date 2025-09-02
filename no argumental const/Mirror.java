@@ -1,0 +1,5 @@
+class Mirror{
+public Mirror()
+{
+}
+}
