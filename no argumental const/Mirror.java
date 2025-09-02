@@ -1,5 +1,0 @@
-class Mirror{
-public Mirror()
-{
-}
-}

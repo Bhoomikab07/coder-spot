@@ -1,5 +1,0 @@
-class Temple{
-public Temple()
-{
-}
-}

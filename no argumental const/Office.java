@@ -1,5 +1,0 @@
-class Office{
-public Office()
-{
-}
-}

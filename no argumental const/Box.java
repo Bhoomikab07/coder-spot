@@ -1,5 +1,0 @@
-class Box{
-public Box()
-{
-}
-}

@@ -1,5 +1,0 @@
-class School{
-public School()
-{
-}
-}
